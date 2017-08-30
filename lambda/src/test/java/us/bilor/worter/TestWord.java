@@ -1,9 +1,9 @@
-package us.bilor.wörter;
+package us.bilor.worter;
 
 import org.junit.Test;
 import static org.junit.Assert.*;
 import com.amazonaws.services.lambda.runtime.Context;
-import us.bilor.wörter.aws.mock.MockContext;
+import us.bilor.worter.aws.mock.MockContext;
 public class TestWord {
 
   private Context getContext() {

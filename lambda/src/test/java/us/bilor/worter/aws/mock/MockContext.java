@@ -1,4 +1,4 @@
-package us.bilor.wörter.aws.mock;
+package us.bilor.worter.aws.mock;
 
 import com.amazonaws.services.lambda.runtime.CognitoIdentity;
 import com.amazonaws.services.lambda.runtime.Context;

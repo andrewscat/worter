@@ -1,4 +1,4 @@
-package us.bilor.wörter.pojo;
+package us.bilor.worter.pojo;
 
 public class Rezult {
 

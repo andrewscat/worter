@@ -1,4 +1,4 @@
-package us.bilor.wörter;
+package us.bilor.worter;
 
 import com.amazonaws.services.lambda.runtime.Context;
 

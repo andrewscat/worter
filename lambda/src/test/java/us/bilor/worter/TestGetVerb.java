@@ -1,13 +1,13 @@
-package us.bilor.wörter;
+package us.bilor.worter;
 
 import org.junit.Test;
 import static org.junit.Assert.*;
 
 import com.amazonaws.services.lambda.runtime.RequestHandler;
 import com.amazonaws.services.lambda.runtime.Context;
-import us.bilor.wörter.aws.mock.MockContext;
-import us.bilor.wörter.pojo.VerbRequest;
-import us.bilor.wörter.pojo.Verb;
+import us.bilor.worter.aws.mock.MockContext;
+import us.bilor.worter.pojo.VerbRequest;
+import us.bilor.worter.pojo.Verb;
 
 public class TestGetVerb {
 

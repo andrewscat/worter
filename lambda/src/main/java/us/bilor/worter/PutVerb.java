@@ -5,7 +5,6 @@ import com.amazonaws.services.lambda.runtime.RequestHandler;
 import us.bilor.worter.pojo.Verb;
 import us.bilor.worter.pojo.VerbRequest;
 import us.bilor.worter.pojo.Rezult;
-import com.amazonaws.regions.Regions;
 
 public class PutVerb implements RequestHandler<Verb, Rezult> {
 

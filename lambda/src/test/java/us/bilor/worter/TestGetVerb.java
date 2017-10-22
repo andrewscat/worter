@@ -12,21 +12,23 @@ import us.bilor.worter.pojo.Verb;
 public class TestGetVerb {
 
 
-  @Test
-  public void assertThatVerbsAreEqual() {
-    RequestHandler handler = new GetVerb();
-    Context ctx = new MockContext();
-    VerbRequest request = new VerbRequest();
-    String verb = "haben";
-    request.setVerb(verb);
+  // @Test
+  // public void assertThatVerbsAreEqual() {
+  //   RequestHandler handler = new GetVerb() {
 
-    Verb response = null;
-    try {
-      response = (Verb)handler.handleRequest(request, ctx);
-    } catch (ClassCastException e) {
-      fail("can not cast handlers response to Verb object");
-    }
+  //   };
+  //   Context ctx = new MockContext();
+  //   VerbRequest request = new VerbRequest();
+  //   String verb = "haben";
+  //   request.setVerb(verb);
 
-    assertEquals(verb, response.getVerb());
-    }
+  //   Verb response = null;
+  //   try {
+  //     response = (Verb)handler.handleRequest(request, ctx);
+  //   } catch (ClassCastException e) {
+  //     fail("can not cast handlers response to Verb object");
+  //   }
+
+  //   assertEquals(verb, response.getVerb());
+  //   }
 }

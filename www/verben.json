@@ -1,0 +1,1233 @@
+[
+  {
+    "verb": "denken",
+    "translation": "to think",
+    "prateritum": "dachte",
+    "hilfsVerb": "hat",
+    "perfect": "gedacht",
+    "usage": [
+      {
+        "phrase": "langsam/schnell denken",
+        "meaning": "to be a slow/quick thinker"
+      },{
+        "phrase": "ich denke nicht",
+        "meaning": "I don't think so"
+      },{
+        "phrase": "ich denke genauso",
+        "meaning": "I think the same (way)"
+      }
+    ]
+  },
+  {
+    "verb": "haben",
+    "translation": "to have",
+    "prateritum": "hatte",
+    "hilfsVerb": "hat",
+    "perfect": "gehadt",
+    "usage": [
+      {
+        "phrase": "wir haben ein Haus/Auto - we've got a house/car",
+        "meaning": "Hunger haben - to be hungry"
+      }
+    ]
+  },
+  {
+    "verb": "nennen",
+    "translation": "to call, to name",
+    "prateritum": "nannte",
+    "hilfsVerb": "hat",
+    "perfect": "genannt",
+    "usage": [
+      {
+        "phrase": "das nennst du schön?",
+        "meaning": "you call that beautiful?"
+      },{
+        "phrase": "Friedrich II., genannt der Große Frederick II",
+        "meaning": "known as Frederick the Great"
+      }
+    ]
+  }, 
+  {
+    "verb": "rennen",
+    "translation": "to run",
+    "prateritum": "rannte",
+    "hilfsVerb": "ist",
+    "perfect": "gerannt",
+    "usage": [
+      {
+        "phrase": "um die Wette rennen",
+        "meaning": "to have a race"
+      }
+    ]
+  },
+  {
+    "verb": "kennen",
+    "translation": "to know",
+    "prateritum": "kannte",
+    "hilfsVerb": "hat",
+    "perfect": "gekant",
+    "usage": [
+      {
+        "phrase": "er kennt das Leben",
+        "meaning": "he knows about life"
+      },{
+        "phrase": "kennst du mich noch?",
+        "meaning": "do you remember me?"
+      },{
+        "phrase": "kennen Sie sich schon?",
+        "meaning": "do you know each other (already)?"
+      }
+    ]
+  },
+  {
+    "verb": "senden",
+    "translation": "to send",
+    "prateritum": "sandte",
+    "hilfsVerb": "hat",
+    "perfect": "gesandt",
+    "usage": [
+      {
+        "phrase": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "verb": "stehen",
+    "translation": "to stand",
+    "prateritum": "stand",
+    "hilfsVerb": "hat",
+    "perfect": "gestanden",
+    "usage": [
+      {
+        "phrase": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "verb": "tun",
+    "translation": "to do",
+    "prateritum": "tat",
+    "hilfsVerb": "hat",
+    "perfect": "getan",
+    "usage": [
+      {
+        "phrase": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "verb": "wenden",
+    "translation": "to turn (around)",
+    "prateritum": "wandte",
+    "hilfsVerb": "gat",
+    "perfect": "gewandt",
+    "usage": [
+      {
+        "phrase": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "verb": "bitten",
+    "translation": "to ask, to beg",
+    "prateritum": "bat",
+    "hilfsVerb": "hat",
+    "perfect": "gebeten",
+    "usage": [
+      {
+        "phrase": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "verb": "essen",
+    "translation": "to eat",
+    "prateritum": "aß",
+    "hilfsVerb": "hat",
+    "perfect": "gegessen",
+    "usage": [
+      {
+        "phrase": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "verb": "fressen",
+    "translation": "to feed, to eat",
+    "prateritum": "fraß",
+    "hilfsVerb": "hat",
+    "perfect": "gefressen",
+    "usage": [
+      {
+        "phrase": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "verb": "geben",
+    "translation": "to give",
+    "prateritum": "gab",
+    "hilfsVerb": "hat",
+    "perfect": "gegeben",
+    "usage": [
+      {
+        "phrase": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "verb": "geschehen",
+    "translation": "to happen",
+    "prateritum": "geschah",
+    "hilfsVerb": "ist",
+    "perfect": "geschehen",
+    "usage": [
+      {
+        "phrase": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "verb": "lesen",
+    "translation": "to read",
+    "prateritum": "las",
+    "hilfsVerb": "hat",
+    "perfect": "gelesen",
+    "usage": [
+      {
+        "phrase": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "verb": "liegen",
+    "translation": "to lie",
+    "prateritum": "lag",
+    "hilfsVerb": "hat",
+    "perfect": "gelegen",
+    "usage": [
+      {
+        "phrase": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "verb": "messen",
+    "translation": "to measure",
+    "prateritum": "maß",
+    "hilfsVerb": "hat",
+    "perfect": "gemessen",
+    "usage": [
+      {
+        "phrase": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "verb": "sehen",
+    "translation": "to see",
+    "prateritum": "sah",
+    "hilfsVerb": "hat",
+    "perfect": "gesehen",
+    "usage": [
+      {
+        "phrase": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "verb": "sein",
+    "translation": "to be",
+    "prateritum": "war",
+    "hilfsVerb": "ist",
+    "perfect": "gewesen",
+    "usage": [
+      {
+        "phrase": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "verb": "sitzen",
+    "translation": "to sit",
+    "prateritum": "saß",
+    "hilfsVerb": "hat",
+    "perfect": "gesessen",
+    "usage": [
+      {
+        "phrase": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "verb": "treten",
+    "translation": "to step",
+    "prateritum": "trat",
+    "hilfsVerb": "hat",
+    "perfect": "getreten",
+    "usage": [
+      {
+        "phrase": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "verb": "vergessen",
+    "translation": "to forget",
+    "prateritum": "vergaß",
+    "hilfsVerb": "hat",
+    "perfect": "vergessen",
+    "usage": [
+      {
+        "phrase": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "verb": "befehlen",
+    "translation": "to order, to give orders",
+    "prateritum": "befahl",
+    "hilfsVerb": "hat",
+    "perfect": "befohlen",
+    "usage": [
+      {
+        "phrase": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "verb": "beginnen",
+    "translation": "to begin",
+    "prateritum": "begann",
+    "hilfsVerb": "hat",
+    "perfect": "begonnen",
+    "usage": [
+      {
+        "phrase": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "verb": "brechen",
+    "translation": "to broke",
+    "prateritum": "brach",
+    "hilfsVerb": "hat",
+    "perfect": "gebrochen",
+    "usage": [
+      {
+        "phrase": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "verb": "empfehlen",
+    "translation": "to recommend",
+    "prateritum": "empfahl",
+    "hilfsVerb": "hat",
+    "perfect": "empfohlen",
+    "usage": [
+      {
+        "phrase": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "verb": "erschrecken",
+    "translation": "to frighten",
+    "prateritum": "erschrak",
+    "hilfsVerb": "ist",
+    "perfect": "erschrocken",
+    "usage": [
+      {
+        "phrase": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "verb": "gelten",
+    "translation": "to count, to be in force, to be allowed",
+    "prateritum": "galt",
+    "hilfsVerb": "hat",
+    "perfect": "gegolten",
+    "usage": [
+      {
+        "phrase": "die Wette gilt!",
+        "meaning": "the bet's on!"
+      },{
+        "phrase": "das gilt nicht!",
+        "meaning": "that doesn't count!(= ist nicht erlaubt), that's not allowed!"
+      },{
+        "phrase": "das Gesetz gilt für alle",
+        "meaning": "the law applies to everyone"
+      },{
+        "phrase": "seine ganze Liebe galt der Musik",
+        "meaning": "music was his only love"
+      },{
+        "phrase": "das Gleiche gilt auch für ihn/von ihm",
+        "meaning": "the same goes for him too/is true of him too"
+      }
+    ]
+  },
+  {
+    "verb": "gewinnen",
+    "translation": "to make (a profit of), to mine, to extract",
+    "prateritum": "gewann",
+    "hilfsVerb": "hat",
+    "perfect": "gewonnen",
+    "usage": [
+      {
+        "phrase": "wie gewonnen, so zerronnen",
+        "meaning": "easy come easy go"
+      }
+    ]
+  },
+  {
+    "verb": "helfen",
+    "translation": "to help",
+    "prateritum": "half",
+    "hilfsVerb": "hat",
+    "perfect": "geholfen",
+    "usage": [
+      {
+        "phrase": "ich kann mir nicht helfen, ich muss es tun",
+        "meaning": "I can't help doing it"
+      },{
+        "phrase": "hilf dir selbst, dann or so hilft dir Gott",
+        "meaning": "God helps those who help themselves"
+      },{
+        "phrase": "man muss sich (dative) nur zu helfen wissen",
+        "meaning": "you just have to use your head"
+      }
+    ]
+  },
+  {
+    "verb": "kommen",
+    "translation": "to come",
+    "prateritum": "kam",
+    "hilfsVerb": "ist",
+    "perfect": "gekommen",
+    "usage": [
+      {
+        "phrase": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "verb": "hehmen",
+    "translation": "to take",
+    "prateritum": "nahm",
+    "hilfsVerb": "hat",
+    "perfect": "genommen",
+    "usage": [
+      {
+        "phrase": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "verb": "schwimmen",
+    "translation": "to swim",
+    "prateritum": "schwamm",
+    "hilfsVerb": "ist",
+    "perfect": "geschwommen",
+    "usage": [
+      {
+        "phrase": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "verb": "sprechen",
+    "translation": "to speak",
+    "prateritum": "sprach",
+    "hilfsVerb": "hat",
+    "perfect": "gesprochen",
+    "usage": [
+      {
+        "phrase": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "verb": "stechen",
+    "translation": "to prick, to sting, to bite",
+    "prateritum": "stach",
+    "hilfsVerb": "hat",
+    "perfect": "gestochen",
+    "usage": [
+      {
+        "phrase": "der Geruch sticht in die Nase",
+        "meaning": "the smell stings one's nose"
+      },{
+        "phrase": "mit etw in etw (accusative) stechen",
+        "meaning": "to stick sth in(to) sth"
+      },{
+        "phrase": "sich (accusative, dative) in den Finger stechen",
+        "meaning": "to prick one's finger"
+      }
+    ]
+  },
+  {
+    "verb": "stehlen",
+    "translation": "to steal",
+    "prateritum": "stahl",
+    "hilfsVerb": "hat",
+    "perfect": "gestohlen",
+    "usage": [
+      {
+        "phrase": "jdm die Zeit stehlen",
+        "meaning": "to waste sb's time"
+      }
+    ]
+  },
+  {
+    "verb": "sterben",
+    "translation": "to die",
+    "prateritum": "starb",
+    "hilfsVerb": "ist",
+    "perfect": "gestorben",
+    "usage": [
+      {
+        "phrase": "einen schnellen Tod sterben ",
+        "meaning": "to die quickly"
+      },{
+        "phrase": "eines natürlichen/gewaltsamen Todes sterben",
+        "meaning": "to die a natural/violent death"
+      },{
+        "phrase": "vor Angst/Durst/Hunger sterben",
+        "meaning": "to die of fright/thirst/hunger"
+      },{
+        "phrase": "er ist für mich gestorben",
+        "meaning": "he doesn't exist as far as I'm concerned"
+      }
+    ]
+  },
+  {
+    "verb": "treffen",
+    "translation": "to meet",
+    "prateritum": "traf",
+    "hilfsVerb": "hat",
+    "perfect": "getroffen",
+    "usage": [
+      {
+        "phrase": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "verb": "verderben",
+    "translation": "to spoil",
+    "prateritum": "verdarb",
+    "hilfsVerb": "hat",
+    "perfect": "verdorben",
+    "usage": [
+      {
+        "phrase": "jdm das Geschäft verderben",
+        "meaning": "to damage sb's business"
+      },
+      {
+        "phrase": "jdm die Laune verderben",
+        "meaning": "to put sb in a bad mood"
+      }
+    ]
+  },
+  {
+    "verb": "werben",
+    "translation": "to recruit, to advertise",
+    "prateritum": "warb",
+    "hilfsVerb": "hat",
+    "perfect": "geworben",
+    "usage": [
+      {
+        "phrase": "Plakate, die für den linken Kandidaten werben",
+        "meaning": "placards supporting the left-wing candidate"
+      }
+    ]
+  },
+  {
+    "verb": "werfen",
+    "translation": "to throw",
+    "prateritum": "warf",
+    "hilfsVerb": "hat",
+    "perfect": "geworfen",
+    "usage": [
+      {
+        "phrase": "Bomben werfen",
+        "meaning": "to drop bombs"
+      },      {
+        "phrase": "eine Münze werfen",
+        "meaning": " to toss a coin"
+      },      {
+        "phrase": "nicht werfen",
+        "meaning": "handle with care"
+      }
+    ]
+  },
+  {
+    "verb": "binden",
+    "translation": "to bind, to tie",
+    "prateritum": "band",
+    "hilfsVerb": "hat",
+    "perfect": "gebunden",
+    "usage": [
+      {
+        "phrase": "mir sind die Hände gebunden",
+        "meaning": " (figurative) my hands are tied"
+      },
+      {
+        "phrase": "nichts bindet mich an Glasgow",
+        "meaning": "I have no special ties to keep me in Glasgow"
+      }
+    ]
+  },
+  {
+    "verb": "eindringen",
+    "translation": "to penetrate",
+    "prateritum": "drang ein",
+    "hilfsVerb": "ist",
+    "perfect": "eingedrungen",
+    "usage": [
+      {
+        "phrase": "in das Land eindringen",
+        "meaning": "(military) to penetrate into the country"
+      }
+    ]
+  },
+  {
+    "verb": "empfinden",
+    "translation": "to feel",
+    "prateritum": "empfand",
+    "hilfsVerb": "hat",
+    "perfect": "empfunden",
+    "usage": [
+      {
+        "phrase": "er hat noch nie Hunger empfunden",
+        "meaning": "he has never experienced hunger"
+      },{
+        "phrase": "er empfand einen solch starken Hunger, dass ...",
+        "meaning": "his hunger was so great that ..."
+      },{
+        "phrase": "bei Musik Freude empfinden",
+        "meaning": "to experience pleasure from music"
+      },{
+        "phrase": "viel/nichts für jdn empfinden",
+        "meaning": "to feel a lot/nothing for sb"
+      }
+    ]
+  },
+  {
+    "verb": "finden",
+    "translation": "to find",
+    "prateritum": "fand",
+    "hilfsVerb": "hat",
+    "perfect": "gefunden",
+    "usage": [
+      {
+        "phrase": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "verb": "gelingen",
+    "translation": "to succeed, to be successful",
+    "prateritum": "gelang",
+    "hilfsVerb": "ist",
+    "perfect": "gelungen",
+    "usage": [
+      {
+        "phrase": "es gelang ihm nicht, das zu tun",
+        "meaning": "he failed to do it"
+      },{
+        "phrase": "dem Häftling gelang die Flucht",
+        "meaning": "the prisoner managed to escape"
+      },{
+        "phrase": "dein Plan wird dir nicht gelingen",
+        "meaning": "you won't succeed with your plan"
+      }
+    ]
+  },
+  {
+    "verb": "klingen",
+    "translation": "to ring, to clink",
+    "prateritum": "klang",
+    "hilfsVerb": "hat",
+    "perfect": "geklungen",
+    "usage": [
+      {
+        "phrase": "nach etw klingen",
+        "meaning": "to sound like sth"
+      },{
+        "phrase": "die Gläser klingen lassen",
+        "meaning": "to clink glasses"
+      },{
+        "phrase": "die Glocke klingt dumpf/hell",
+        "meaning": "the bell has a dull/clear ring"
+      }
+    ]
+  },
+  {
+    "verb": "singen",
+    "translation": "to sing",
+    "prateritum": "sang",
+    "hilfsVerb": "hat",
+    "perfect": "gesungen",
+    "usage": [
+      {
+        "phrase": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "verb": "sinken",
+    "translation": "to sink, to come down",
+    "prateritum": "sank",
+    "hilfsVerb": "ist",
+    "perfect": "gesunken",
+    "usage": [
+      {
+        "phrase": "ins Bett sinken",
+        "meaning": "to fall into bed"
+      },{
+        "phrase": "die Arme/den Kopf sinken lassen",
+        "meaning": "to let one's arms/head drop"
+      }
+    ]
+  },
+  {
+    "verb": "trinken",
+    "translation": "to drink",
+    "prateritum": "trank",
+    "hilfsVerb": "hat",
+    "perfect": "getrunken",
+    "usage": [
+      {
+        "phrase": "alles/eine Flasche leer trinken",
+        "meaning": "to finish off all the drink/a bottle"
+      },{
+        "phrase": "ich habe nichts zu trinken im Haus",
+        "meaning": "I haven't any drink in the house"
+      }
+    ]
+  },
+  {
+    "verb": "verschwinden",
+    "translation": "to disappear, to vanish",
+    "prateritum": "verschwand",
+    "hilfsVerb": "ist",
+    "perfect": "verschwunden",
+    "usage": [
+      {
+        "phrase": "verschwinde!",
+        "meaning": "clear out! (inf)"
+      },{
+        "phrase": "etw verschwinden lassen",
+        "meaning": "to make sth disappear or vanish"
+      },{
+        "phrase": "von der Landkarte verschwinden",
+        "meaning": "to disappear off the map"
+      }
+    ]
+  },
+  {
+    "verb": "zwingen",
+    "translation": "to force",
+    "prateritum": "zwang",
+    "hilfsVerb": "hat",
+    "perfect": "gezwungen",
+    "usage": [
+      {
+        "phrase": "jdn zwingen, etw zu tun",
+        "meaning": "to force sb to do sth"
+      },{
+        "phrase": "ich lasse mich nicht (dazu) zwingen",
+        "meaning": "I won't be forced (to do it or into it)"
+      },{
+        "phrase": "man kann niemanden zu seinem Glück zwingen",
+        "meaning": "you can't force people"
+      }
+    ]
+  },
+  {
+    "verb": "blasen",
+    "translation": "to blow",
+    "prateritum": "blies",
+    "hilfsVerb": "hat",
+    "perfect": "geblasen",
+    "usage": [
+      {
+        "phrase": "(slang, = fellieren) jdm einen blasen",
+        "meaning": "to give sb a blow job (slang)"
+      }
+    ]
+  },
+  {
+    "verb": "braten",
+    "translation": "to roast, to bake, to fry",
+    "prateritum": "briet",
+    "hilfsVerb": "hat",
+    "perfect": "gebraten",
+    "usage": [
+      {
+        "phrase": "etw braun braten",
+        "meaning": "to roast/fry sth until it is brown"
+      }
+    ]
+  },
+  {
+    "verb": "empfangen",
+    "translation": "to receive, to greet, to welcome",
+    "prateritum": "empfing",
+    "hilfsVerb": "hat",
+    "perfect": "empfangen",
+    "usage": [
+      {
+        "phrase": "die Polizisten wurden mit einem Steinhagel empfangen",
+        "meaning": "the police were greeted by a shower of stones"
+      }
+    ]
+  },
+  {
+    "verb": "fallen",
+    "translation": "to fall",
+    "prateritum": "fiel",
+    "hilfsVerb": "ist",
+    "perfect": "gefallen",
+    "usage": [
+      {
+        "phrase": "etw fallen lassen",
+        "meaning": "to drop sth"
+      },{
+        "phrase": "sich fallen lassen",
+        "meaning": "to drop (figurative), to give up"
+      },{
+        "phrase": "durch eine Prüfung etc fallen",
+        "meaning": "to fail an exam etc"
+      }
+    ]
+  },
+  {
+    "verb": "fangen",
+    "translation": "to catch",
+    "prateritum": "fing",
+    "hilfsVerb": "hat",
+    "perfect": "gefangen",
+    "usage": [
+      {
+        "phrase": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "verb": "gehen",
+    "translation": "to go, to walk",
+    "prateritum": "ging",
+    "hilfsVerb": "ist",
+    "perfect": "gegangen",
+    "usage": [
+      {
+        "phrase": "gehen wir!",
+        "meaning": "let's go!"
+      },{
+        "phrase": "bitte gehen Sie!",
+        "meaning": "please leave! (Vortritt gewährend), after you!"
+      },{
+        "phrase": "geh schon!",
+        "meaning": "go on!"
+      },{
+        "phrase": "schlafen gehen",
+        "meaning": "to go to bed"
+      },{
+        "phrase": "das Kind lernt gehen",
+        "meaning": "the baby is learning to walk"
+      }
+    ]
+  },
+  {
+    "verb": "geraten",
+    "translation": "to get (in (+acc) into), to turn out",
+    "prateritum": "geriet",
+    "hilfsVerb": "ist",
+    "perfect": "geraten",
+    "usage": [
+      {
+        "phrase": "ihm gerät einfach alles",
+        "meaning": "everything he does turns out well"
+      },{
+        "phrase": "nach jdm geraten",
+        "meaning": "to take after sb"
+      },{
+        "phrase": "in Bewegung geraten",
+        "meaning": "to begin to move"
+      },{
+        "phrase": "unter ein Fahrzeug geraten",
+        "meaning": "to fall under a vehicle"
+      }
+    ]
+  },
+  {
+    "verb": "halten",
+    "translation": "to hold",
+    "prateritum": "hielt",
+    "hilfsVerb": "hat",
+    "perfect": "gehalten",
+    "usage": [
+      {
+        "phrase": "jdm etw halten",
+        "meaning": "to hold sth for sb"
+      },{
+        "phrase": "etw gegen das Licht halten",
+        "meaning": "to hold sth up to the light"
+      },{
+        "phrase": "die drei Pfeiler halten die Brücke",
+        "meaning": " the three piers support the bridge"
+      }
+    ]
+  },
+  {
+    "verb": "hängen",
+    "translation": "to hang",
+    "prateritum": "hing",
+    "hilfsVerb": "hat",
+    "perfect": "gehangen",
+    "usage": [
+      {
+        "phrase": "die Vorhänge hängen schief",
+        "meaning": "the curtains don't hang straight"
+      },{
+        "phrase": "ihre Haare hängen bis auf die Schultern",
+        "meaning": "her hair comes down to her shoulders"
+      },{
+        "phrase": "sie hing ihm an der Schulter",
+        "meaning": "she clung to his shoulder"
+      }
+    ]
+  },
+  {
+    "verb": "lassen",
+    "translation": "to let, to leave",
+    "prateritum": "ließ",
+    "hilfsVerb": "hat",
+    "perfect": "gelassen",
+    "usage": [
+      {
+        "phrase": "die Bohnen fünf Minuten kochen lassen",
+        "meaning": "let the beans boil for five minutes"
+      },{
+        "phrase": "jdm mitteilen lassen, dass ...",
+        "meaning": "to let sb know that ..."
+      },{
+        "phrase": "lass mich machen!",
+        "meaning": "let me do it!"
+      },{
+        "phrase": "lass uns gehen!",
+        "meaning": "let's go!"
+      }
+    ]
+  },
+  {
+    "verb": "laufen",
+    "translation": "to run, to walk",
+    "prateritum": "lief",
+    "hilfsVerb": "ist",
+    "perfect": "gelaufen",
+    "usage": [
+      {
+        "phrase": "lauf doch!",
+        "meaning": "get a move on! (inf)"
+      },{
+        "phrase": "das Kind läuft schon",
+        "meaning": "the child can already walk"
+      },{
+        "phrase": "er läuft sehr unsicher",
+        "meaning": "he's very unsteady on his feet"
+      }
+    ]
+  },
+  {
+    "verb": "raten",
+    "translation": "to advise",
+    "prateritum": "riet",
+    "hilfsVerb": "hat",
+    "perfect": "geraten",
+    "usage": [
+      {
+        "phrase": "jdm gut/richtig/schlecht raten",
+        "meaning": "to give sb good/correct/bad advice"
+      },{
+        "phrase": "das würde ich dir nicht raten",
+        "meaning": "I wouldn't advise it"
+      },{
+        "phrase": "was raten Sie mir? ",
+        "meaning": "what do you advise?"
+      }
+    ]
+  },
+  {
+    "verb": "schlafen",
+    "translation": "to sleep",
+    "prateritum": "schlief",
+    "hilfsVerb": "hat",
+    "perfect": "geschlafen",
+    "usage": [
+      {
+        "phrase": "schläfst du schon?",
+        "meaning": "are you asleep?"
+      },{
+        "phrase": "über Mittag schlafen",
+        "meaning": "to have an afternoon nap"
+      },{
+        "phrase": "schlaf nicht!",
+        "meaning": "wake up!"
+      }
+    ]
+  },
+  {
+    "verb": "heißen",
+    "translation": "to call, to be titled",
+    "prateritum": "",
+    "hilfsVerb": "",
+    "perfect": "",
+    "usage": [
+      {
+        "phrase": "oder wie heißt man das?",
+        "meaning": "(informal) or what do you call it?"
+      },{
+        "phrase": " ... so wahr ich Franz-Josef heiße",
+        "meaning": "... as sure as I'm standing here"
+      },{
+        "phrase": "sie heißt jetzt anders",
+        "meaning": "she has a different name now"
+      }
+    ]
+  },
+  {
+    "verb": "beißen",
+    "translation": "to bite",
+    "prateritum": "biss",
+    "hilfsVerb": "hat",
+    "perfect": "gebissen",
+    "usage": [
+      {
+        "phrase": "ich kann dieses Brot nicht beißen",
+        "meaning": "this bread is too hard for me"
+      },{
+        "phrase": "der Hund hat mich (or mir) ins Bein gebissen",
+        "meaning": "the dog has bitten my leg or me in the leg"
+      },{
+        "phrase": "er wird dich schon nicht beißen",
+        "meaning": "(figurative) he won't bite you"
+      },{
+        "phrase": "etwas/nichts zu beißen",
+        "meaning": "(informal)(= essen) something/nothing to eat"
+      }
+    ]
+  },
+  {
+    "verb": "bleiben",
+    "translation": "to stay",
+    "prateritum": "blieb",
+    "hilfsVerb": "ist",
+    "perfect": "geblieben",
+    "usage": [
+      {
+        "phrase": "ruhig/still bleiben",
+        "meaning": "to keep calm/quiet"
+      }, {
+        "phrase": "bitte, bleiben Sie doch sitzen",
+        "meaning": "please don't get up"
+      }, {
+        "phrase": "wo bleibst du so lange?",
+        "meaning": "(informal) what's keeping you (all this time)?"
+      }
+    ]
+  },
+  {
+    "verb": "gleichen",
+    "translation": "to be alike, to be like sb/sth",
+    "prateritum": "glich",
+    "hilfsVerb": "hat",
+    "perfect": "geglichen",
+    "usage": [
+      {
+        "phrase": "jdm an Erfahrung/Schönheit gleichen",
+        "meaning": "to equal sb in experience/beauty"
+      }
+    ]
+  },
+  {
+    "verb": "gleiten",
+    "translation": "to slide, to slip",
+    "prateritum": "glitt",
+    "hilfsVerb": "ist",
+    "perfect": "geglitten",
+    "usage": [
+      {
+        "phrase": "zu Boden gleiten",
+        "meaning": "to slip to the ground (auf den Fußboden), to slip to the floor"
+      }
+    ]
+  },
+  {
+    "verb": "greifen",
+    "translation": "to grab, to take hold of",
+    "prateritum": "griff",
+    "hilfsVerb": "hat",
+    "perfect": "gegriffen",
+    "usage": [
+      {
+        "phrase": "eine Oktave greifen",
+        "meaning": "to stretch an octave"
+      }
+    ]
+  },
+  {
+    "verb": "leiden",
+    "translation": "to suffer",
+    "prateritum": "litt",
+    "hilfsVerb": "hat",
+    "perfect": "gelitten",
+    "usage": [
+      {
+        "phrase": "viel zu leiden haben",
+        "meaning": "to have a great deal to bear"
+      }
+    ]
+  },
+  {
+    "verb": "leihen",
+    "translation": "to lend, to borrow",
+    "prateritum": "lieh",
+    "hilfsVerb": "hat",
+    "perfect": "geliehen",
+    "usage": [
+      {
+        "phrase": "Sie bestellte einen Käsekuchen und fragte, ob sie meine taz leihen könne.",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "verb": "meiden",
+    "translation": "to avoid",
+    "prateritum": "mied",
+    "hilfsVerb": "hat",
+    "perfect": "gemieden",
+    "usage": [
+      {
+        "phrase": "Ferdinand Mülhens und seine Frau Trudi meiden die Kölner Gesellschaft.",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "verb": "pfeifen",
+    "translation": "to whistle",
+    "prateritum": "pfiff",
+    "hilfsVerb": "hat",
+    "perfect": "gepfiffen",
+    "usage": [
+      {
+        "phrase": "",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "verb": "reiben",
+    "translation": "to rub",
+    "prateritum": "rieb",
+    "hilfsVerb": "hat",
+    "perfect": "gerieben",
+    "usage": [
+      {
+        "phrase": "etw blank reiben",
+        "meaning": "to rub sth till it shines"
+      }
+    ]
+  },
+  {
+    "verb": "reißen",
+    "translation": "to tear, to rip",
+    "prateritum": "riss",
+    "hilfsVerb": "hat",
+    "perfect": "gerissen",
+    "usage": [
+      {
+        "phrase": "da riss mir die Geduld or der Geduldsfaden",
+        "meaning": "then my patience gave out"
+      }
+    ]
+  },
+  {
+    "verb": "scheinen",
+    "translation": "to shine",
+    "prateritum": "schien",
+    "hilfsVerb": "hat",
+    "perfect": "geschienen",
+    "usage": [
+      {
+        "phrase": "mir scheint, (dass) ...",
+        "meaning": "it seems to me that ..."
+      }, {
+        "phrase": "du hast scheints vergessen, dass ...",
+        "meaning": "(dialect, informal) you seem to have forgotten that ..."
+      }
+    ]
+  },
+  {
+    "verb": "schleichen",
+    "translation": "to creep, to sneak, to crawl",
+    "prateritum": "schlich",
+    "hilfsVerb": "ist",
+    "perfect": "geschlichen",
+    "usage": [
+      {
+        "phrase": "Tiere schleichen um ihr Haus, um nicht auf sich aufmerksam zu machen.",
+        "meaning": ""
+      }
+    ]
+  },
+  {
+    "verb": "schmeißen",
+    "translation": "to throw",
+    "prateritum": "schmiss",
+    "hilfsVerb": "hat",
+    "perfect": "geschmissen",
+    "usage": [
+      {
+        "phrase": "mit Steinen schmeißen",
+        "meaning": "to throw stones"
+      }
+    ]
+  }
+]

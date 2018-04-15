@@ -1,0 +1,179 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Wörter - Learn German</title>
+
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+
+    <!-- Custom styles for this template -->
+    <link rel="stylesheet" href="css/business-frontpage.css">
+    <!-- Custom style -->
+    <link rel="stylesheet" href="css/worter.css">
+    <!-- Matherial icon -->
+    <link rel="stylesheet" href="css/material-icons.css">
+    <!-- font awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <link rel="icon" type="image/png" href="img/favicon.png">
+
+    <!-- Bootstrap core JavaScript -->
+    <script src="js/jquery.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Custom script -->
+    <script src="js/verben.js"></script>
+
+  </head>
+
+  <body onload="nextVerb()">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-dark bg-dark fixed-top">
+      <div class="container">
+        <button class="navbar-toggler mr-auto" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <a class="navbar-brand mr-auto" href="index.html">Wörter</a>
+        <div class="collapse navbar-collapse" id="navbarResponsive">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item">
+                <a class="nav-link" href="index.html">Main</a>
+            </li>            
+            <li class="nav-item">
+              <a class="nav-link" href="verben.html">Verben</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="about.html">About</a>
+            </li>
+          </ul>
+        </div>
+        <div>
+          <ul class="navbar-nav ml-auto">
+            <li class="nav-item"></li>
+              <a class="nav-link" href="#"><i class="material-icons" data-toggle="modal" data-target="#settingsModal">settings</i></a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+
+    <!-- Page Content -->
+    <div class="container">
+      <p>
+      <div class="row">
+        <div class="col-lg-12">
+          <div class="row">
+            <div class="col float-left">
+                <h3 class="mt-2"><div id="translation" class="text-primary"></div></h3>
+            </div>
+            <div class="col-md-auto float-right">
+              <div class="row">
+                <div class="col">
+                  <button type="button" class="btn btn-secondary btn-md" onclick="showVerb()"><i class="material-icons">translate</i> Translate</button>
+                </div>
+                <div class="col">
+                   <button type="button" class="btn btn-primary btn-md" onclick="showAll()"><i class="material-icons">done_all</i> Show all</button>
+                </div>
+                <div class="col">
+                  <button type="button" class="btn btn-success btn-md" onclick="nextVerb()"><i class="material-icons">shuffle</i> Next</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      </p>
+      <p>
+      <div class="row">
+        <table class="table">
+          <tbody>
+            <tr>
+              <td>
+                <div class="invisible" id="verb"></div>
+              </td>
+              <td>
+                <div class="invisible" id="prateritum"></div>
+              </td>
+              <td>
+                <span class="invisible" id="hilfsVerb"></span> <span class="invisible" id="perfect"></span>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      </p>
+      <p>
+      <div class="row">
+        <div id="usage" class="invisible">
+            <strong><span>Usage:</span></strong>
+        </div>
+      </div>
+      </p>
+    </div>
+    <!-- /.container -->
+    
+    <!-- Footer -->
+    <div class="footer">
+      <!--Grid row-->
+      <div class="row">
+        <!--Grid column-->
+        <div class="col-md-12">
+          <div class="mb-1 flex-center">
+            <!--Mail-->
+            <a class="envelope-ic" href="mailto:andrii.bilorus@gmail.com">
+              <i class="fa fa-envelope fa-lg white-text mr-md-4"></i>
+            </a>
+            <!--Github-->
+            <a class="github-ic" href="https://github.com/andrewscat/worter">
+              <i class="fa fa-github fa-lg white-text mr-md-4"> </i>
+            </a>
+          </div>
+        </div>
+      <!--Grid column-->
+      </div>
+    <!--Grid row-->
+    </div>
+    <!-- End footer -->
+
+    <div class="modal fade" id="settingsModal" tabindex="-1" role="dialog" aria-labelledby="settingsModalLabel" aria-hidden="true">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="settingsModalLabel">Settings</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <form>
+              <div class="form-group">
+                <div class="form-check">
+                  <input type="checkbox" id="showUsage">
+                  <label class="form-check-label" for="showUsage">Show verb usage as well.</label>
+                </div>
+                <div class="form-check">
+                  <input type="checkbox" id="showTranslate">
+                  <label class="form-check-label" for="showUsage">Do not show translation.</label>
+                </div>
+              </div>
+            </form>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            <button type="button" class="btn btn-primary">Save changes</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </body>
+</html>

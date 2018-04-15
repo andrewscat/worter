@@ -11,70 +11,123 @@
     <title>Wörter - Learn German</title>
 
     <!-- Bootstrap core CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/bootstrap.min.css">
 
     <!-- Custom styles for this template -->
-    <link href="css/business-frontpage.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/business-frontpage.css">
+    <!-- Custom style -->
+    <link rel="stylesheet" href="css/worter.css">
+    <!-- Matherial icon -->
+    <link rel="stylesheet" href="css/material-icons.css">
+    <!-- font awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 
-  </head>
-
-  <body>
-
-    <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
-      <div class="container">
-        <a class="navbar-brand" href="index.html">Wörter</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarResponsive">
-          <ul class="navbar-nav ml-auto">
-            <li class="nav-item">
-              <a class="nav-link" href="#">Vocabulary</a>
-            </li>            
-            <li class="nav-item">
-              <a class="nav-link" href="#">Partizip II</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="about.html">About</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="login.html">Login</a>
-            </li>
-          </ul>
-        </div>
-      </div>
-    </nav>
-
-    <!-- Page Content -->
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-12">
-          <h1 class="mt-5 text-center">Wörter web application</h1>
-          <p class="lead">What is this?</p>
-          <p>
-          This is yet another application that helps you learning foreign language.
-          This app was created for German, but as a matter of fact you can use it for any language.
-          </p>
-          <p class="lead">What does "wörter" mean?</p>
-          <p>
-            Wörter is "words" in German.
-          </p>
-          <p class="lead">Why should I use this app instead of another one?</p>
-          <p>
-          It allows you to create your own sets of words. You learn only the words you want to learn.
-          It is not a standalone learning language application. It's just a tool that may help you learn language more effectively.
-          </p>
-        </div>
-      </div>
-    </div>
-    <!-- /.container -->
+    <link rel="icon" type="image/png" href="img/favicon.png">
 
     <!-- Bootstrap core JavaScript -->
     <script src="js/jquery.min.js"></script>
     <script src="js/popper.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
 
-  </body>
+    <!-- Custom script -->
 
+
+  </head>
+
+  <body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-dark bg-dark fixed-top">
+        <div class="container">
+          <button class="navbar-toggler mr-auto" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <a class="navbar-brand mr-auto" href="index.html">Wörter</a>
+          <div class="collapse navbar-collapse" id="navbarResponsive">
+            <ul class="navbar-nav mr-auto">
+              <li class="nav-item">
+                  <a class="nav-link" href="index.html">Main</a>
+              </li>            
+              <li class="nav-item">
+                <a class="nav-link" href="verben.html">Verben</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="about.html">About</a>
+              </li>
+            </ul>
+          </div>
+          <div>
+            <ul class="navbar-nav ml-auto">
+              <li class="nav-item"></li>
+                <a class="nav-link" href="#"><i class="material-icons" data-toggle="modal" data-target="#settingsModal">settings</i></a>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+
+    <!-- Page Content -->
+    <div class="container">
+      <h1> Hi there </h1>
+      <p>
+        This is the web page that can help you learn German.
+      </p>
+      <p>
+        If you are interested in contributing, the following links may be useful
+        <lu>
+          <li>
+            author's email address <a href="mailto:andrii.bilorus@gmail.com">andrii.bilorus@gmail.com</a>
+          </li>
+          <li>
+            source code on github <a class="github-ic" href="https://github.com/andrewscat/worter">https://github.com/andrewscat/worter</a>
+          </li>
+        </lu>
+      </p>
+    </div>
+    <!-- /.container -->
+    
+    <!-- Footer -->
+    <div class="footer">
+      <!--Grid row-->
+      <div class="row">
+        <!--Grid column-->
+        <div class="col-md-12">
+          <div class="mb-1 flex-center">
+            <!--Mail-->
+            <a class="envelope-ic" href="mailto:andrii.bilorus@gmail.com">
+              <i class="fa fa-envelope fa-lg white-text mr-md-4"></i>
+            </a>
+            <!--Github-->
+            <a class="github-ic" href="https://github.com/andrewscat/worter">
+              <i class="fa fa-github fa-lg white-text mr-md-4"> </i>
+            </a>
+          </div>
+        </div>
+      <!--Grid column-->
+      </div>
+    <!--Grid row-->
+    </div>
+    <!-- End footer -->
+
+    <div class="modal fade" id="settingsModal" tabindex="-1" role="dialog" aria-labelledby="settingsModalLabel" aria-hidden="true">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="settingsModalLabel">Settings</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+           No options available on this page
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            <button type="button" class="btn btn-primary">Save changes</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </body>
 </html>

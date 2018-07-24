@@ -30,31 +30,31 @@ function getRandomElement(items) {
 function nextVerb() {
   hideAll();
   newVerb();
-  translation = document.getElementById("translation");
+  var translation = document.getElementById("translation");
   translation.textContent = currentElement.translation;
 }
 
 function showVerb() {
   hideAll();
-  verb = document.getElementById("verb");
+  var verb = document.getElementById("verb");
   verb.textContent = currentElement.verb;
   verb.setAttribute("class", "visible"); 
 }
 
 function showPrateritum() {
-  prat = document.getElementById("prateritum");
+  var prat = document.getElementById("prateritum");
   prat.textContent = currentElement.prateritum;
   prat.setAttribute("class", "visible"); 
 }
 
 function showPerfect() {
-  perfect = document.getElementById("perfect");
+  var perfect = document.getElementById("perfect");
   perfect.textContent = currentElement.perfect;
   perfect.setAttribute("class", "visible"); 
 }
 
 function showHilfsVerb() {
-  hilfsVerb = document.getElementById("hilfsVerb");
+  var hilfsVerb = document.getElementById("hilfsVerb");
   hilfsVerb.textContent = currentElement.hilfsVerb;
   hilfsVerb.setAttribute("class", "visible"); 
 }
@@ -68,9 +68,9 @@ function showAll() {
 }
 
 function hideAll() {
-  itemsIds = ["verb", "prateritum", "hilfsVerb", "perfect"];
+  var itemsIds = ["verb", "prateritum", "hilfsVerb", "perfect"];
   for (i in itemsIds) {
-    item = document.getElementById(itemsIds[i]);
+    var item = document.getElementById(itemsIds[i]);
     item.setAttribute("class", "invisible");
   }
   hideUsage();
